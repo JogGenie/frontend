@@ -23,4 +23,6 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+# Eslint Configuration
+See [Configuration Reference](https://www.npmjs.com/package/@eslint/migrate-config)
 
